@@ -76,7 +76,7 @@ class Chat(Factory):
 
     def buildProtocol(self, addr):
         """
-        Инициализация нового клиента
+        Инициализация нового клиентаrequirements.txt
         :param addr:
         :return:
         """
